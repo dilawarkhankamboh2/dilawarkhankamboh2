@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I think am introword**
 
-<h3 align="left">Frontend Frameworks:</h3>
+<h3 align="left">Frontend Development</h3>
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 &nbsp; &nbsp;
