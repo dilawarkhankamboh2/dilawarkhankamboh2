@@ -40,9 +40,10 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> &nbsp; &nbsp;
 </div>
 
-<h3>State Management Tools</h3>
+<h3>State Management And Api Tools</h3>
 <div>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+ <img src="https://zenstack.dev/img/logo/tanstackquery.png" width="40" height="40" />
 </div>
 <h3>Web Compiler</h3>
 <div>
