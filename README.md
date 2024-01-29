@@ -43,7 +43,7 @@
 <h3>State Management And Api Tools</h3>
 <div>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
- <img src="https://zenstack.dev/img/logo/tanstackquery.png" width="40" height="40" />
+ <img src="https://zenstack.dev/img/logo/tanstackquery.png" width="60" height="40" />
 </div>
 <h3>Web Compiler</h3>
 <div>
