@@ -9,11 +9,17 @@
 
 - 🌱 I’m currently learning **App Development, MERN Devlopment,**
 
-- 💬 Ask me about **react js, next js, vue js, nest js, angular js**
+- 🔭 Expertise in JavaScript , TypeScript , React JS , Next JS , Angular , Vue JS , and much more.**
+
+- 🔭 Expertise in Redux Toolkit , TanStack, Redux Saga, Redux Thunk, RTK Query, Context Api , Hooks.**
+
+- 🔭 Experienced developer with expertise in advanced HTML5, CSS3, SCSS, Bootstrap5, Tailwind CSS , Metrial UI**
+
+- 🔭 Having Excellent working experience on Ecommerce Projects**
 
 - 📫 How to reach me **dilawarkhankamboh17@gmail.com**
 
-- ⚡ Fun fact **I think am intro word**
+- ⚡ Fun fact **I think am introword**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
