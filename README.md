@@ -1,5 +1,4 @@
 <img src="https://pbs.twimg.com/media/GFA5i8JawAA0SnD?format=jpg&name=large" width="100%" height="100%" />
-<h1 align="center">Hi 👋, I'm Dilawar khan kamboh</h1>
 <h3 align="center">Full-stack Software Developer and Javascript Enthusiast, Who Loves Building Things In Javascript. 🔥 👨🏽‍💻🏅</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilawarkhankamboh2&label=Profile%20views&color=0e75b6&style=flat" alt="dilawarkhankamboh2" /> </p>
