@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilawarkhankamboh2&label=Profile%20views&color=0e75b6&style=flat" alt="dilawarkhankamboh2" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilawarkhankamboh2" alt="dilawarkhankamboh2" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/dilawarkhan27" target="blank"><img src="https://img.shields.io/twitter/follow/dilawarkhan27?logo=twitter&style=for-the-badge" alt="dilawarkhan27" /></a> </p>
 
 - 🔭 I’m currently working on **Social media app**
