@@ -21,10 +21,10 @@
 
 - ⚡ Fun fact **I think am introword**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Frontend Frameworks:</h3>
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  &nbsp; &nbsp;
+&nbsp; &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
 </div>
 
