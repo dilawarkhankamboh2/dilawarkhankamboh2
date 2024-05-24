@@ -17,7 +17,7 @@
 
 - 🔭 Having Excellent working experience on Ecommerce Projects**
 
-- 📫 How to reach me **dilawarkhankamboh17@gmail.com**
+- 📫 How to reach me **dilawarkhankamboh@gmail.com**
 
 - ⚡ Fun fact **I think am introword**
 
